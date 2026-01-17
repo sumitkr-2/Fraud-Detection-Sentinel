@@ -88,8 +88,12 @@ The app will open at:
 
 ## 📸 Screenshots
 
-<img width="1470" height="830" alt="image" src="https://github.com/user-attachments/assets/78201064-cd65-4f80-a35a-e77db6fa75e0" />
+<img width="1469" height="384" alt="image" src="https://github.com/user-attachments/assets/cae2b6bb-493b-4af9-bac4-aadc23891eb8" />
+
 <img width="1099" height="642" alt="image" src="https://github.com/user-attachments/assets/0d008487-5022-496b-ac06-e81e70a2f02a" />
+<img width="1465" height="716" alt="image" src="https://github.com/user-attachments/assets/11e22dbb-a53c-4890-96d1-ba33b877612d" />
+<img width="1105" height="544" alt="image" src="https://github.com/user-attachments/assets/ebb17efc-c6be-491d-a604-d6380ff501c9" />
+
 <img width="1080" height="515" alt="image" src="https://github.com/user-attachments/assets/975cc286-4f0a-47e4-bbf9-e4ff084c3cc9" />
 
 
